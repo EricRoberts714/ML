@@ -6,6 +6,8 @@
 Welcome to sphinx testing ground's documentation!
 =================================================
 
+Hello Tanny and Zhuowen! Just playing around with my first index.rst file
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
